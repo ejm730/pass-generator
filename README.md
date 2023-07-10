@@ -19,4 +19,4 @@ To use the password generator properly you will need to hit the "Generate Passwo
 
 ## License
 
-Please refer to README.md in repository
+Please refer to License in repository
