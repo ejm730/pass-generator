@@ -12,7 +12,8 @@ This application does not need to be downloaded on its own, you can access it by
 
 To use the password generator properly you will need to hit the "Generate Password" button for the prompts to show up at the top of the page. The prompts can either be agreed to by clicking "ok" or skipped by hitting the "cancel" button on the prompts you do not which to include.
 
-assets/images/password-generator-screenshot.PNG
+![Password Generator Screenshot](assets/password-generator-screenshot.PNG)
+
 
 
 
